@@ -1,3 +1,10 @@
+##Se muestran ejemplos de la definición clásica de la probabilidad de que 
+##suceda un elemento cualquiera, uno en específico y un ejemplo de cartas.
+
+
+###Forma de ejecutar
+###python3 DefinicionClasicaProbabilidad.py
+
 ####Parte 1
 #Se considera una muestra, el cual es un vector con n elementos
 print("Se posee la siguiente muestra: 1,2,3,4,5,6   ")
