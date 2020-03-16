@@ -1,4 +1,4 @@
-#este es el ejemplo 2.1 en este se muestra la probabilidad de
+#Este es el ejemplo 2.1 en este se muestra la probabilidad de
 #lanzar dos dados y que el resultado de la suma de estos de 7.
 
 #forma de ejecutar
