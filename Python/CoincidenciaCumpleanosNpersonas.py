@@ -1,7 +1,7 @@
 # Ejemplo 2. 3
 #La coincidencia de cumpleaños:
 ###En una fiesta a la que concurren un total de 50 personas,
-# una amiga intrépida afirma que en la fiesta debe haber por
+## una amiga intrépida afirma que en la fiesta debe haber por
 #lo menos dos personas que cumplen años el mismo día. ¿Deberíamos creerle?
 
 #Utilizando el método de LA REGLA DE LAPLACE Y LA COMBINATORIA
