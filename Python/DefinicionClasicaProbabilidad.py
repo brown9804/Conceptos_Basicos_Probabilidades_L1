@@ -16,3 +16,4 @@ h = len(numeros_pares)
 #considera la probabilidad de numero pares, cantidad de numeros pares/numero total
 probabilidadpares = float(h)/n
 print("Probabilidad de que salga un número par:   ", probabilidadpares)
+
