@@ -3,7 +3,7 @@
 #diamantes, etc en total son 4
 
 #Forma de ejecutarlo 
-#python3 RFrecRelativaNumerosDivisibles6.py
+#python3 MazoCartasRFrecRelativaNumerosDivisibles6.py
 
 palo = [i+1 for i in range(13)]
 # Comprobar divisibilidad por 6
