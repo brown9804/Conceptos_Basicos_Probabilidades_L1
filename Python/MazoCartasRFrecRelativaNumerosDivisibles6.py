@@ -13,3 +13,5 @@ print("Tomando en cuenta que hay cuatro palos, la frecuencia relativa de los nú
 probabilidad_6 = (4*float(len(divisible_6)))/(4*len(palo))
 # Respuesta frecuencia relativa de los números divisibles por 6 es
 print("{0:0.2f}".format(probabilidad_6))
+
+
