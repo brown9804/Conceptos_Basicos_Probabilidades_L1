@@ -6,7 +6,7 @@ espacio_muestras = [1,2,3,4,5,6]
 n = len(espacio_muestras)
 #saca la probabilidad es dividir 1/cantidad de elementos
 probabilidad = 1.0/n
-print("La proabilidad es de:   ", probabilidad)
+print("La probabilidad es de:   ", probabilidad)
 #se busca por los numeros par en la muestra de arriba, lo que
 #calcula es la razon entonces divide el numero entre dos y si da
 #numero entero entonces es par 4/2 = 2 250 /2 =125
