@@ -48,3 +48,5 @@ p_fallar = sum([p_ascensores[i] * p_fallo[i] for i in range(len(p_ascensores))])
 # Aplicación de Teorema de Bayes
 p_bayes = [(p_fallo[i] * p_ascensores[i]) / p_fallar for i in range(len(p_ascensores))]
 print("La probabilidad de que haya sido el primero de los ascensores es {A:0.2f}. Y el segundo {B:0.2f}".format(A=p_bayes[0]*100, B=p_bayes[1]*100))
+
+
