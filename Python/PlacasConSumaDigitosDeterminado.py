@@ -65,7 +65,4 @@ else:
 
 
 
-##Últimas cifras de las placas:
-# Calcule la probabilidad de que se repitan
-#las dos últimas cifras de la matrícula en quince
-#automóviles anotados al azar.
+
